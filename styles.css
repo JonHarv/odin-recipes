@@ -1,0 +1,27 @@
+html{
+    background-color: #09ff005b;
+}
+
+.centre{
+    text-align: center;
+    color:red;
+}
+
+.pic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:600px;
+    height:auto;
+}
+
+.list{
+    display:flex;
+    flex-direction: column;
+    width:600px;
+    margin:auto;
+}
+
+a:visited{
+    color:#423b3bb6;
+}
